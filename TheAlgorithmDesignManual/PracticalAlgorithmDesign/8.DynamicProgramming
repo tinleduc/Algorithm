@@ -1,0 +1,11 @@
+Dynamic Programming 273
+8.1 Caching vs. Computation . . . . . . . . . . . . . . . . . . . . . . 274
+8.2 Approximate String Matching . . . . . . . . . . . . . . . . . . . . 280
+8.3 Longest Increasing Sequence . . . . . . . . . . . . . . . . . . . . . 289
+8.4 War Story: Evolution of the Lobster . . . . . . . . . . . . . . . . 291
+8.5 The Partition Problem . . . . . . . . . . . . . . . . . . . . . . . . 294
+8.6 Parsing Context-Free Grammars . . . . . . . . . . . . . . . . . . 298
+8.7 Limitations of Dynamic Programming: TSP . . . . . . . . . . . . 301
+8.8 War Story: What’s Past is Prolog . . . . . . . . . . . . . . . . . . 304
+8.9 War Story: Text Compression for Bar Codes . . . . . . . . . . . 307
+8.10 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
