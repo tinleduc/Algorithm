@@ -1,0 +1,12 @@
+Sorting and Searching 103
+4.1 Applications of Sorting . . . . . . . . . . . . . . . . . . . . . . . . 104
+4.2 Pragmatics of Sorting . . . . . . . . . . . . . . . . . . . . . . . . . 107
+4.3 Heapsort: Fast Sorting via Data Structures . . . . . . . . . . . . 108
+4.4 War Story: Give me a Ticket on an Airplane . . . . . . . . . . . 118
+4.5 Mergesort: Sorting by Divide-and-Conquer . . . . . . . . . . . . 120
+4.6 Quicksort: Sorting by Randomization . . . . . . . . . . . . . . . 123
+4.7 Distribution Sort: Sorting via Bucketing . . . . . . . . . . . . . . 129
+4.8 War Story: Skiena for the Defense . . . . . . . . . . . . . . . . . 131
+4.9 Binary Search and Related Algorithms . . . . . . . . . . . . . . . 132
+4.10 Divide-and-Conquer . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+4.11 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
