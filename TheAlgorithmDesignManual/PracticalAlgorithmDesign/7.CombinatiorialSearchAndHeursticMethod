@@ -1,0 +1,12 @@
+Combinatorial Search and Heuristic Methods 230
+7.1 Backtracking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+7.2 Search Pruning . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+7.3 Sudoku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+7.4 War Story: Covering Chessboards . . . . . . . . . . . . . . . . . . 244
+7.5 Heuristic Search Methods . . . . . . . . . . . . . . . . . . . . . . 247
+7.6 War Story: Only it is Not a Radio . . . . . . . . . . . . . . . . . 260
+7.7 War Story: Annealing Arrays . . . . . . . . . . . . . . . . . . . . 263
+7.8 Other Heuristic Search Methods . . . . . . . . . . . . . . . . . . 266
+7.9 Parallel Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . 267
+7.10 War Story: Going Nowhere Fast . . . . . . . . . . . . . . . . . . . 268
+7.11 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 270
