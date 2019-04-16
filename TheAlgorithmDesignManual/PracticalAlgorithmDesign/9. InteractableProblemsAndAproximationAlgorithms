@@ -1,0 +1,12 @@
+Intractable Problems and Approximation Algorithms 316
+9.1 Problems and Reductions . . . . . . . . . . . . . . . . . . . . . . 317
+9.2 Reductions for Algorithms . . . . . . . . . . . . . . . . . . . . . . 319
+9.3 Elementary Hardness Reductions . . . . . . . . . . . . . . . . . . 323
+9.4 Satisfiability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 328
+9.5 Creative Reductions . . . . . . . . . . . . . . . . . . . . . . . . . 330
+9.6 The Art of Proving Hardness . . . . . . . . . . . . . . . . . . . . 334
+9.7 War Story: Hard Against the Clock . . . . . . . . . . . . . . . . . 337
+9.8 War Story: And Then I Failed . . . . . . . . . . . . . . . . . . . . 339
+9.9 P vs. NP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 341
+9.10 Dealing with NP-complete Problems . . . . . . . . . . . . . . . . 344
+9.11 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
