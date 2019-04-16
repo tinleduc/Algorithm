@@ -1,0 +1,11 @@
+
+2.1 The RAM Model of Computation . . . . . . . . . . . . . . . . . . 31
+2.2 The Big Oh Notation . . . . . . . . . . . . . . . . . . . . . . . . . 34
+2.3 Growth Rates and Dominance Relations . . . . . . . . . . . . . . 37
+2.4 Working with the Big Oh . . . . . . . . . . . . . . . . . . . . . . 40
+2.5 Reasoning About Efficiency . . . . . . . . . . . . . . . . . . . . . 41
+2.6 Logarithms and Their Applications . . . . . . . . . . . . . . . . . 46
+2.7 Properties of Logarithms . . . . . . . . . . . . . . . . . . . . . . . 50
+2.8 War Story: Mystery of the Pyramids . . . . . . . . . . . . . . . . 51
+2.9 Advanced Analysis (*) . . . . . . . . . . . . . . . . . . . . . . . . 54
+2.10 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
