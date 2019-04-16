@@ -1,0 +1,12 @@
+Graph Traversal 145
+5.1 Flavors of Graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+5.2 Data Structures for Graphs . . . . . . . . . . . . . . . . . . . . . 151
+5.3 War Story: I was a Victim of Moore’s Law . . . . . . . . . . . . 155
+5.4 War Story: Getting the Graph . . . . . . . . . . . . . . . . . . . . 158
+5.5 Traversing a Graph . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+5.6 Breadth-First Search . . . . . . . . . . . . . . . . . . . . . . . . . 162
+5.7 Applications of Breadth-First Search . . . . . . . . . . . . . . . . 166
+5.8 Depth-First Search . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+5.9 Applications of Depth-First Search . . . . . . . . . . . . . . . . . 172
+5.10 Depth-First Search on Directed Graphs . . . . . . . . . . . . . . 178
+5.11 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
